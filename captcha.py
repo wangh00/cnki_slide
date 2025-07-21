@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time: 2025/7/16 下午4:48
-# @Author: wanghui
-# @Email: wangh0011@sina.com
-# @File: captcha.py
-# @Software: PyCharm
 import json, re
 from urllib.parse import urlparse, parse_qs
 import parsel
